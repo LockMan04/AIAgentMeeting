@@ -121,5 +121,3 @@ User Input → Smart Assistant → [Meeting Prep Expert | Analysis Expert] → R
 - [Google](https://developers.google.com/) - Contacts API
 
 ---
-
-**Liên hệ hỗ trợ:** [support@example.com]
